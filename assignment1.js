@@ -182,7 +182,10 @@ var questions = [{
     }, {
         question: "can you tell me my engineering branch?\n",
         answer: "ict",
-    },
+    },{
+        question: "Tell me my best friend's name : \n"
+        answer: "Jaahanava"
+    }
 ];
 
 var highScores = [{
